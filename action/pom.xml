@@ -23,5 +23,10 @@
             <version>13.0</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>com.abigail</groupId>
+            <artifactId>service</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 </project>

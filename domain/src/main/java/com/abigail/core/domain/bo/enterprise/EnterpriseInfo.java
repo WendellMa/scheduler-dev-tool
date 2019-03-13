@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 public class EnterpriseInfo {
-    private String entId;
+    private long entId;
     private String entName;
     private String entCode;
 }
